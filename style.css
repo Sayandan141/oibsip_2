@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  
+}
+
+.image-container {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.bio {
+  margin-top: 20px; 
+}
+.footer{
+  justify-content:center; 
+  text-align:center;  
+  border-radius:5px;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  line-height: 1.6;
+}
